@@ -1,0 +1,1 @@
+For this project, I am recreating Google's basic homepage. We shall see how it goes and maybe I will even tackle trying to recreate a search results page.
