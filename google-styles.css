@@ -1,0 +1,89 @@
+body{
+	font-family: sans-serif;
+	margin: 0;
+	height: 100%
+	background:rgb(255,255,255); 
+}
+
+
+nav {
+	padding: 15px;
+}
+
+
+a{
+	text-decoration: none;
+
+}
+
+input{
+	justify-content: center;
+}
+
+#upperpanel{
+	display: flex;
+	display: inline;
+	
+}
+
+
+#glgo{height:233px;margin-top:89px}
+
+#googlelogo{
+	padding-top:109px
+}
+
+.top-left{
+	float: left;
+	margin: 10px;
+}
+
+.top-right{
+	float: right;
+	margin: 10px;
+
+}
+
+.search_box {
+	justify-content: center;
+    border-radius: 20px;
+    padding-left: 50px;
+    width: 575px;
+    height: 45px;
+    border:rgb(223,225,229) 2px solid;
+    background-image: url(magnifying_glass_icon.png), url(https://icon-library.net/images/android-mic-icon/android-mic-icon-8.jpg);
+    background-size: 40px, 25px;
+    background-position: 2% 50%, 98% 50%;
+    background-repeat: no-repeat;
+    back
+}
+
+.google_buttons {
+    border-radius: 5px;
+    margin: 30px 6px 8px 6px;
+    background-color: rgb(243,243,243);
+    color: rgb(95,99,104);
+    height: 30px;
+    padding-left: 13px;
+    padding-right: 13px;
+    border: none;
+    font-size: 16px;
+}
+
+.bottom-left {
+	float: left;
+	margin: 8px;
+}
+
+footer {
+    position: absolute;
+    bottom:0;
+    width: 100%;
+    background-color: rgb(242,242,242);
+}
+
+
+.bottom-right {
+	float: right;
+	margin: 8px;
+}
